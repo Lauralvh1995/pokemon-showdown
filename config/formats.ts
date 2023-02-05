@@ -21,6 +21,15 @@ export const Formats: FormatList = [
 
 	// S/V Singles
 	///////////////////////////////////////////////////////////////////
+	{
+		section: "Campaign",
+	},
+	{
+		name: "Campaign Gym Battles",
+		desc: `Pokémon allowed in Aztla League-Sanctioned Battles`,
+		ruleset: ['Standard'],
+		banlist: ['- all pokemon, + marillaztlan'],
+	},
 
 	{
 		section: "S/V Singles",
