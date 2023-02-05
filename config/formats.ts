@@ -26,6 +26,7 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "Campaign Gym Battles",
+		mod: 'gen9'
 		desc: `Pokémon allowed in Aztla League-Sanctioned Battles`,
 		ruleset: ['Standard'],
 		banlist: ['- all pokemon, + marillaztlan'],
