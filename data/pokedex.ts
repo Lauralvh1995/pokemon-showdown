@@ -3795,7 +3795,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		otherFormes: ["Marill-Aztlan"],
 		formeOrder: ["Marill", "Marill-Aztlan"],
 	},
-	marillaztla:{
+	marillaztlan:{
 		num: 183,
 		name: "Marill-Aztlan",
 		types: ["Water", "Electric"],
