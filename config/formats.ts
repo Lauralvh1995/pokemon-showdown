@@ -29,7 +29,7 @@ export const Formats: FormatList = [
 		mod: 'gen9',
 		desc: `Pokémon allowed in Aztla League-Sanctioned Battles`,
 		ruleset: ['Standard'],
-		banlist: ['- all pokemon, + azurillaztlan, + marillaztlan, + azumarillaztlan'],
+		banlist: ['- all pokemon', '+ azurillaztlan', '+ marillaztlan', '+ azumarillaztlan'],
 	},
 
 	{
