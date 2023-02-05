@@ -3792,6 +3792,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Azumarill"],
 		eggGroups: ["Water 1", "Fairy"],
 		canHatch: true,
+		otherFormes: ["Marill-Aztlan"],
+		formeOrder: ["Marill", "Marill-Aztlan"],
 	},
 	marillaztla:{
 		num: 183,
@@ -3820,6 +3822,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		prevo: "Marill",
 		evoLevel: 18,
 		eggGroups: ["Water 1", "Fairy"],
+		otherFormes: ["Azumarill-Aztlan"],
+		formeOrder: ["Azumarill", "Azumarill-Aztlan"],
 	},
 	azumarillaztlan: {
 		num: 184,
@@ -5586,6 +5590,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Marill"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		otherFormes: ["Azurill-Aztlan"],
+		formeOrder: ["Azurill", "Azurill-Aztlan"],
 	},
 	azurillaztlan: {
 		num: 298,
